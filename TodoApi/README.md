@@ -1,4 +1,4 @@
-# MVC Movie
+# Todo API
 Creating a web API with ASP.NET Core
 
 ## Description
