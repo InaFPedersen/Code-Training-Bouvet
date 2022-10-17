@@ -1263,11 +1263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\BlogApplication\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore.csproj",
+      "projectUniqueName": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore.csproj",
       "projectName": "BlogApp-EFCore",
-      "projectPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\BlogApplication\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore.csproj",
+      "projectPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore.csproj",
       "packagesPath": "C:\\Users\\ina.pedersen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\BlogApplication\\BlogApp-EFCore\\BlogApp-EFCore\\obj\\",
+      "outputPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ina.pedersen\\AppData\\Roaming\\NuGet\\NuGet.Config",

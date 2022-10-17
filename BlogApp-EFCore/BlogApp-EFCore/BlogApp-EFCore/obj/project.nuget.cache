@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vBnUSG5QctLGbSKvATzxkVeUt2W7BXVeOwiYLyExiUUO8k7bmtYDwNuWjToRvDuBRwOA3T1TKDyJ7Ziy64Q7AA==",
+  "dgSpecHash": "9gOMzORvDtoWDy89m2Dv+WA8+veZDD80wO9zANQni6DhLvc2R6uD3oBdPzKfMTNJA/Dv6dbRj9RgrSJ3ZGRsMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\BlogApplication\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore.csproj",
+  "projectFilePath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore\\BlogApp-EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ina.pedersen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ina.pedersen\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
