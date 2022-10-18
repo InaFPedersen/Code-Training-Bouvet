@@ -1,0 +1,134 @@
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.sidebar {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row ::deep a, .top-row .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth) {
+        display: none;
+    }
+
+    .top-row.auth {
+        justify-content: space-between;
+    }
+
+    .top-row a, .top-row .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page {
+        flex-direction: row;
+    }
+
+    .sidebar {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row, article {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+
+/* improved for chat text box */
+textarea {
+    border: 1px dashed #888;
+    border-radius: 5px;
+    width: 80%;
+    overflow: auto;
+    background: #f7f7f7
+}
+
+/* improved for speech bubbles */
+.received, .sent {
+    position: relative;
+    font-family: arial;
+    font-size: 1.1em;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+    .received:after, .sent:after {
+        content: '';
+        border: 20px solid transparent;
+        position: absolute;
+        margin-top: -30px;
+    }
+
+.sent {
+    background: #03a9f4;
+    color: #fff;
+    margin-left: 10%;
+    top: 50%;
+    text-align: right;
+}
+
+.received {
+    background: #4CAF50;
+    color: #fff;
+    margin-left: 10px;
+    margin-right: 10%;
+}
+
+.sent:after {
+    border-left-color: #03a9f4;
+    border-right: 0;
+    right: -20px;
+}
+
+.received:after {
+    border-right-color: #4CAF50;
+    border-left: 0;
+    left: -20px;
+}
+
+/* div within bubble for name */
+.user {
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #000;
+}
+
+.msg {
+    /*display: inline;*/
+}
