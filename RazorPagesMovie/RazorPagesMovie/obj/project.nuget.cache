@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbVKlSSzMh/sgJ1XKSsNlti1/pMNsVFZvvN5UtFZPC8kWpMMCwoWcq83J5Z2Qjb+eMLUNPYM3DX8/yDSLg0M/A==",
+  "dgSpecHash": "iIqUkfxDdgZsdJUVNqIcjKyTJkrT2wsG4EbdI+sAqEN5tismvJN2NQ9ao9mnAlUF64eYUKO11aOnMqn3q9Arkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+  "projectFilePath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ina.pedersen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ina.pedersen\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

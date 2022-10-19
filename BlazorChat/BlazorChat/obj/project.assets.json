@@ -755,11 +755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\BlazorChat\\BlazorChat\\BlazorChat.csproj",
+      "projectUniqueName": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\BlazorChat\\BlazorChat\\BlazorChat.csproj",
       "projectName": "BlazorChat",
-      "projectPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\BlazorChat\\BlazorChat\\BlazorChat.csproj",
+      "projectPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\BlazorChat\\BlazorChat\\BlazorChat.csproj",
       "packagesPath": "C:\\Users\\ina.pedersen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\BlazorChat\\BlazorChat\\obj\\",
+      "outputPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\BlazorChat\\BlazorChat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ina.pedersen\\AppData\\Roaming\\NuGet\\NuGet.Config",

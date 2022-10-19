@@ -9855,11 +9855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\ina.pedersen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
+      "outputPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ina.pedersen\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/VctM/O3sgJLVstEfPCP8ZdE0NIeK76Iqr0urErRXQTNRSIdajLXGfYgd6K1/MIxc+QCQCXPtX+7CGARVmIkHg==",
+  "dgSpecHash": "WhYG0nz3644GvUralFTc3pqc5P9eGYtjyXSMQ3dSI9E5xDChOBpNOE8S5643N+019hPGq7WltWDHHGFyGBOUDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\BlazorChat\\BlazorChat\\BlazorChat.csproj",
+  "projectFilePath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\BlazorChat\\BlazorChat\\BlazorChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ina.pedersen\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.10\\microsoft.aspnetcore.connections.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\ina.pedersen\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.10\\microsoft.aspnetcore.http.connections.client.6.0.10.nupkg.sha512",

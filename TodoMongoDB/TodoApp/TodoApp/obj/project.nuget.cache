@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dagEl57uvF6UF+ordU6Y+itOb5ifmAt76yxJAisi/G3wyThrv2uVCHx/qia3YTqvFNwgJ1NJ5YNyG/OYFLiXcA==",
+  "dgSpecHash": "fvAErLc3tjiqGHQ3ZhQdV+J6JCewB+es1n30koX+N7A48IPtid9Wc+/WcftGOgHGGsaxKIM0mfQiiUkG215CEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\TodoMongoDB\\TodoApp\\TodoApp\\TodoApp.csproj",
+  "projectFilePath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\TodoMongoDB\\TodoApp\\TodoApp\\TodoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ina.pedersen\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\ina.pedersen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

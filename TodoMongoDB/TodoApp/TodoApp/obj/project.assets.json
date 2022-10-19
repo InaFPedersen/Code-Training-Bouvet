@@ -874,11 +874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\TodoMongoDB\\TodoApp\\TodoApp\\TodoApp.csproj",
+      "projectUniqueName": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\TodoMongoDB\\TodoApp\\TodoApp\\TodoApp.csproj",
       "projectName": "TodoApp",
-      "projectPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\TodoMongoDB\\TodoApp\\TodoApp\\TodoApp.csproj",
+      "projectPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\TodoMongoDB\\TodoApp\\TodoApp\\TodoApp.csproj",
       "packagesPath": "C:\\Users\\ina.pedersen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\TodoMongoDB\\TodoApp\\TodoApp\\obj\\",
+      "outputPath": "C:\\Users\\ina.pedersen\\OneDrive - Bouvet Norge AS\\Documents\\VisualStudioProjects\\Code-Training-Bouvet\\TodoMongoDB\\TodoApp\\TodoApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ina.pedersen\\AppData\\Roaming\\NuGet\\NuGet.Config",
