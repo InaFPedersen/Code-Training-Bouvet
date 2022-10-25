@@ -1,0 +1,31 @@
+﻿@model BlogApp.ViewModels.CommentViewModel
+
+<style>
+    .post_comments {
+        display: flex;
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    .post_input {
+        flex: 1;
+        border: none;
+        padding: 10px;
+        border-top: 1px solid lightgray;
+    }
+
+    .post_button {
+        flex: 0;
+        border: none;
+        border-top: 1 px solid lightgray;
+    }
+</style>
+
+<div>
+    <form method="post" asp-controller="Post" asp-action="Comment" class="post_comments">
+        <input asp-for="PostId" type="hidden" />
+        <input asp-for="MainCommentId" type="hidden" />
+        <input class="post_input" asp-for="Message" placeholder="Add a comment..." />
+        <button class="post_button" type="submit">Submit</button>
+    </form>
+</div>
